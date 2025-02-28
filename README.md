@@ -35,3 +35,10 @@ apt update && apt install docker docker-compose git -y
   docker-compose up
   ```
 SI TODO HA IDO BIEN, DEBERÍA FUNCIONAR.
+
+En caso de hacerlo por reenvio de puertos en Oracle Virtual Box:
+
+![image](https://github.com/user-attachments/assets/f2fc42d5-5e05-44c9-8ca0-ccfaafbdc50b)
+
+
+
