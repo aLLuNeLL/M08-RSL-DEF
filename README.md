@@ -4,7 +4,7 @@ Pasos a seguir para el funcionamiento:
 Tener instalado: docker
 
 ```
-apt update && apt install docker -y
+apt update && apt install docker docker-compose -y
 ```
 
 1. GIT CLONE:
@@ -17,7 +17,7 @@ apt update && apt install docker -y
 2. RUTA DEL DOCKER-COMPOSE.YAML
 
   ```
-  cd M08-WEB-APP/
+  cd M08-RSL_DEF/
   ``` 
   --> Aquí dentro encontrarás el docker-compose.yaml
 
