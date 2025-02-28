@@ -23,9 +23,9 @@ apt update && apt install docker docker-compose git -y
 
 3. EJECUCIÓN:
 
-  Para ejecutarlo, simplemente haces un: 
+  Para inicializarlo y montarlo, simplemente haces un: 
   ```
-  docker-compose up
+  docker-compose up --build
   ```
 
 4. VISUALIZACIÓN:
@@ -33,6 +33,14 @@ apt update && apt install docker docker-compose git -y
   Para que se visualice,  
    ```
   docker-compose up
+  ```
+  De manera silenciosa:
+  ```
+  docker-compose up -d
+  ```
+  Vas a 
+  ```
+  localhost:8080
   ```
 SI TODO HA IDO BIEN, DEBERÍA FUNCIONAR.
 
