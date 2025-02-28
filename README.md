@@ -38,6 +38,8 @@ SI TODO HA IDO BIEN, DEBERÍA FUNCIONAR.
 
 En caso de hacerlo por reenvio de puertos en Oracle Virtual Box:
 
+![image](https://github.com/user-attachments/assets/e515e688-0f26-40a5-b5d2-5663a3e24e1a)
+
 ![image](https://github.com/user-attachments/assets/f2fc42d5-5e05-44c9-8ca0-ccfaafbdc50b)
 
 
