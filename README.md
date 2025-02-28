@@ -4,7 +4,7 @@ Pasos a seguir para el funcionamiento:
 Tener instalado: docker
 
 ```
-apt update && apt install docker docker-compose -y
+apt update && apt install docker docker-compose git -y
 ```
 
 1. GIT CLONE:
