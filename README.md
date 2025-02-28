@@ -31,4 +31,7 @@ apt update && apt install docker docker-compose -y
 4. VISUALIZACIÓN:
 
   Para que se visualice,  
+   ```
+  docker-compose up
+  ```
 SI TODO HA IDO BIEN, DEBERÍA FUNCIONAR.
